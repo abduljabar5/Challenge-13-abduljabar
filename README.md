@@ -26,7 +26,7 @@ Google
 
 ## License
 
-![Alt text](https://img.shields.io/github/license/abduljabar5/Challenge-13-abduljabar)
+![Alt text](https://img.shields.io/github/license/abduljabar5/Challenge-12-abduljabar)
 
 Copyright (c) 2022 abduljabar5
 
