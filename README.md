@@ -18,7 +18,8 @@ N/A
 
 its a back end for an e-commerce site.
 
-![Alt text](assets/img/portfolio.png)
+[Untitled_ Feb 4, 2023 7_50 AM.webm](https://user-images.githubusercontent.com/115905200/216772098-08008f7b-3f36-40e7-a377-e1c1fdee0668.webm)
+
 
 ## Credits
 Google
